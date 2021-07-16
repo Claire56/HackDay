@@ -16,6 +16,7 @@ $python server.py
 
 ## Structure
 Defines the business structure
+
 ![Structure](./docs/1.Structure.png)
 
 ## Products for the 
@@ -35,9 +36,11 @@ SWOT analysis
 
 ## Operational
 Day-to-day ops, facilities and staffing
+
 ![Operational](./docs/5.Operational.png)
 
 
 ## Financial Details
 Defines the business structure
+
 ![FinancialDetails](./docs/6.FinancialDetails.png)
