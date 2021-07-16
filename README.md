@@ -10,3 +10,5 @@ $python
 >>> db.create_all()
 run app
 $python server.py
+
+[Screenshots](/docs/SCREENSHOTS.md)
