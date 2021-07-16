@@ -46,6 +46,6 @@ Defines the business structure
 ![FinancialDetails](./docs/6.FinancialDetails.png)
 
 ### Financial Statments
-Defines the business structure
+Includes financial statments for cashflow forecasting
 
 ![FinancialStatments](./docs/7.FinancialStatments.png)
