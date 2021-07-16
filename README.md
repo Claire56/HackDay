@@ -44,3 +44,8 @@ Day-to-day ops, facilities and staffing
 Defines the business structure
 
 ![FinancialDetails](./docs/6.FinancialDetails.png)
+
+### Financial Statments
+Defines the business structure
+
+![FinancialStatments](./docs/7.FinancialStatments.png)
