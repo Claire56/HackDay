@@ -1,14 +1,29 @@
-create a virtualenv
-$virtualenv env
-activate virtualenv
-$source env/bin/activate
-install packages 
-$pip3 install -r requirements.txt
-create database 
-$python
->>> from project import db
->>> db.create_all()
-run app
-$python server.py
+# Main Screen Flow
 
-[Screenshots](/docs/SCREENSHOTS.md)
+## Structure
+Defines the business structure
+![Structure](1.Structure.png)
+
+## Products for the 
+Defines the products the business is producing or is planning to produce
+![Products](2.Products.png)
+
+
+## Marketing
+Target and established markets. Advertising strategy and others
+![Marketing](3.Marketing.png)
+
+
+## SWOT
+SWOT analysis
+![SWOT](4.SWOT.png)
+
+
+## Operational
+Day-to-day ops, facilities and staffing
+![Operational](5.Operational.png)
+
+
+## Financial Details
+Defines the business structure
+![FinancialDetails](6.FinancialDetails.png)

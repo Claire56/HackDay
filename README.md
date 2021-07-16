@@ -11,4 +11,4 @@ $python
 run app
 $python server.py
 
-[Screenshots](/docs/SCREENSHOTS.md)
+[Screenshots](docs/SCREENSHOTS.md)
