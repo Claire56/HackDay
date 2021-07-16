@@ -7,7 +7,7 @@ $source env/bin/activate
 $pip3 install -r requirements.txt
 ### create database 
 $python
->>> from project import db
+>>> from project import db <br>
 >>> db.create_all()
 ### run app
 $python server.py
