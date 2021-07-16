@@ -53,7 +53,7 @@ Includes financial statments for cashflow forecasting
 
 
 ## Review Business
-IListing selectable list of business plans
+Listing selectable list of business plans
 
 ![ReviewBusinessCases](./docs/8.ReviewBusinessCases.png)
 
