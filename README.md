@@ -48,4 +48,4 @@ Defines the business structure
 ### Financial Statments
 Includes financial statments for cashflow forecasting
 
-![FinancialStatments](./docs/7.FinancialStatments.png)
+![FinancialStatments](./docs/7.FinancialStatements.png)
