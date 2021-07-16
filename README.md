@@ -50,3 +50,8 @@ Defines the business structure
 Includes financial statments for cashflow forecasting
 
 ![FinancialStatments](./docs/7.FinancialStatements.png)
+
+## Data Model
+
+
+![bizPlanDataModel](./docs/bizPlanDataModel.png)
