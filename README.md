@@ -35,29 +35,13 @@ $ source env/bin/activate<br><br>
 Install dependencies:<br>
 $ pip install -r requirements.txt <br>
 Create database:<br><br>
-$python <br><br>
->>> from project import db <br>
->>> db.create_all() <br>
+$python <br>
+>>> flask db init db 
+>>> flask db migrate
+>>> flask db upgrade
 
-### run app
+run app <br>
 $python server.py
-
-
-
-## How to Run Project
-### create a virtualenv
-$virtualenv env
-### activate virtualenv
-$source env/bin/activate
-## install packages 
-$pip3 install -r requirements.txt
-### create database 
-$python
->>> from project import db <br>
->>> db.create_all()
-### run app
-$python server.py
-
 
 ## Main Screen Flow
 
