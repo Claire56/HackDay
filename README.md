@@ -25,7 +25,7 @@ Frontend: Javascript , Jinja, HTML, CSS, Bootstrap <br>
 ## Setup and installation
 On local machine, go to desired directory. Clone  repository:
 
-$ git clone https://github.com/Claire56/HackDay 
+$ git clone https://github.com/Claire56/HackDay <br>
 Create a virtual environment in the directory:
 
 $ virtualenv env
