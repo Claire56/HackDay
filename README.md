@@ -23,10 +23,11 @@ The BZPlan Dembe is a solution to provide access to funding for business ideas. 
 
 
 ## Tech Stack
-Data Wrangling: Pandas, Numpy , seaborn, matplotlib <br>
 Framework: Flask <br>
-Backend: Python, SQLAlchemy, PostgreSQL ,SciKit_Learn <br>
+Backend: Python, SQLAlchemy, PostgreSQL  <br>
 Frontend: Javascript , Jinja, HTML, CSS, Bootstrap <br>
+Data Wrangling: Pandas, Numpy , seaborn, matplotlib <br>
+Libraries:SciKit_Learn,seaborn, matplotlib
 
 ## Setup and installation
 On local machine, go to desired directory. Clone  repository:<br>
