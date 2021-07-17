@@ -80,14 +80,14 @@ $python
 $python server.py
 
 
-# Main Screen Flow
+## Main Screen Flow
 
-## Structure
+### Structure
 Defines the business structure
 
 ![Structure](./docs/1.Structure.png)
 
-## Products for the 
+### Products for the 
 Defines the products the business is producing or is planning to produce
 ![Products](./docs/2.Products.png)
 
