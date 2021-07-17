@@ -23,9 +23,8 @@ Backend: Python, SQLAlchemy, PostgreSQL ,SciKit_Learn <br>
 Frontend: Javascript , Jinja, HTML, CSS, Bootstrap <br>
 
 ## Setup and installation
-On local machine, go to desired directory. Clone  repository:
-
-$ git clone https://github.com/Claire56/HackDay <br>
+On local machine, go to desired directory. Clone  repository:<br>
+$ git clone https://github.com/Claire56/HackDay <br><br>
 Create a virtual environment in the directory:<br>
 $ virtualenv env<br>
 Activate virtual environment:<br>
