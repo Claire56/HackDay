@@ -26,12 +26,12 @@ Frontend: Javascript , Jinja, HTML, CSS, Bootstrap <br>
 On local machine, go to desired directory. Clone  repository:
 
 $ git clone https://github.com/Claire56/HackDay <br>
-Create a virtual environment in the directory:
+Create a virtual environment in the directory:<br>
 $ virtualenv env<br>
 Activate virtual environment:<br>
-$ source env/bin/activate<br>
+$ source env/bin/activate<br><br>
 Install dependencies:<br>
-$ pip install -r requirements.txt <br>
+$ pip install -r requirements.txt <br><br>
 Create database:<br>
 $python <br>
 >>> flask db init db <br>
