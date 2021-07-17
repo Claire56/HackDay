@@ -27,18 +27,16 @@ On local machine, go to desired directory. Clone  repository:
 
 $ git clone https://github.com/Claire56/HackDay <br>
 Create a virtual environment in the directory:
-
-$ virtualenv env
+$ virtualenv env<br>
 Activate virtual environment:<br>
-
-$ source env/bin/activate<br><br>
+$ source env/bin/activate<br>
 Install dependencies:<br>
 $ pip install -r requirements.txt <br>
-Create database:<br><br>
+Create database:<br>
 $python <br>
->>> flask db init db 
->>> flask db migrate
->>> flask db upgrade
+>>> flask db init db <br>
+>>> flask db migrate<br>
+>>> flask db upgrade<br>
 
 run app <br>
 $python server.py
