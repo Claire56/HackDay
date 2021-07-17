@@ -6,8 +6,10 @@ BzPlan Dembe is a webapp that brigdes the gap between investors and small busine
 * [Overview](#Overview)
 * [Tech Stack](#Tech-Stack)
 * [Setup and installation](#Setup-and-installation)
-* [Main Screen Flow](#Main Screen Flow)
+* [Main Screen Flow](#Main-Screen-Flow)
 * [Future Features](#Future-Features)
+
+
 
 ## Overview
 Have you ever wondered how much your home would cost if it were in a different location?? well if you have, Zyzy is here for you. Zyzy is a fun web app that users can enjoy by finding out how much their home would cost if it where in a different location. The brain of the app was built using the gradient boasting machine learning algorithm. This included a long task of exploring and wrangling data, using pandas, matplotlib and seaborn. To make the best predictions, I explored three machine learning algorithmns as you will see in the demo to get a better feel of each one's contribution.
