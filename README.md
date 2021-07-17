@@ -98,9 +98,13 @@ Includes financial statments for cashflow forecasting
 
 ![FinancialStatments](./docs/7.FinancialStatements.png)
 
+## Future Features
 
-## Review Business
+### Review Business
 Listing selectable list of business plans
 
 ![ReviewBusinessCases](./docs/8.ReviewBusinessCases.png)
+
+### Recommend Business Plans
+Based on selected criteria recommend business plans to financial institution
 
