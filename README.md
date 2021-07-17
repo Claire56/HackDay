@@ -28,7 +28,7 @@ On local machine, go to desired directory. Clone  repository:
 $ git clone https://github.com/Claire56/HackDay 
 Create a virtual environment in the directory:
 
-$ virtualenv env<br>
+$ virtualenv env
 Activate virtual environment:<br>
 
 $ source env/bin/activate<br><br>
