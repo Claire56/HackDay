@@ -14,7 +14,11 @@ BzPlan Dembe is a webapp that brigdes the gap between investors and small busine
 
 
 ## Overview
-Have you ever wondered how much your home would cost if it were in a different location?? well if you have, Zyzy is here for you. Zyzy is a fun web app that users can enjoy by finding out how much their home would cost if it where in a different location. The brain of the app was built using the gradient boasting machine learning algorithm. This included a long task of exploring and wrangling data, using pandas, matplotlib and seaborn. To make the best predictions, I explored three machine learning algorithmns as you will see in the demo to get a better feel of each one's contribution.
+The BZPlan Dembe is a solution to provide access to funding for business ideas. This application would have the following key features:
+* Allow for users to free submit and manage their business plans
+* Allow for users to review other business plans
+* Moderators and backend users can generate reports
+* A recommendation engine can scan the business plans based on specified rules and present those plans to financial institutions or funding source. 
 
 
 
@@ -27,28 +31,28 @@ Frontend: Javascript , Jinja, HTML, CSS, Bootstrap <br>
 ## Setup and installation
 On local machine, go to desired directory. Clone  repository:<br>
 ```python
-$ git clone https://github.com/Claire56/HackDay <br><br>
+$ git clone https://github.com/Claire56/HackDay
 ```
 Create a virtual environment in the directory:<br>
 ```python
-$ virtualenv env<br>
+$ virtualenv env
 ```
 Activate virtual environment:<br>
 ```python
-$ source env/bin/activate<br><br>
+$ source env/bin/activate
 ```
 Install dependencies:<br>
 ```python
-$ pip install -r requirements.txt <br><br>
-````
+$ pip install -r requirements.txt 
+```
 Create database:<br>
 ```python
-$python <br>
->>> flask db init db <br>
->>> flask db migrate<br>
->>> flask db upgrade<br>
+$python 
+>>> flask db init db 
+>>> flask db migrate
+>>> flask db upgrade
 
-run app <br>
+run app 
 $python server.py
 ```
 
