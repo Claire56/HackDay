@@ -7,6 +7,7 @@ BzPlan Dembe is a webapp that brigdes the gap between investors and small busine
 * [Tech Stack](#Tech-Stack)
 * [Setup and installation](#Setup-and-installation)
 * [Main Screen Flow](#Main-Screen-Flow)
+* [Financial Statment](#Financial-Statments)
 * [Future Features](#Future-Features)
 
 
@@ -32,6 +33,7 @@ $ source env/bin/activate<br><br>
 Install dependencies:<br>
 $ pip install -r requirements.txt <br><br>
 Create database:<br>
+```python
 $python <br>
 >>> flask db init db <br>
 >>> flask db migrate<br>
@@ -39,6 +41,7 @@ $python <br>
 
 run app <br>
 $python server.py
+```
 
 ## Main Screen Flow
 
@@ -47,7 +50,7 @@ Defines the business structure
 
 ![Structure](./docs/1.Structure.png)
 
-### Products for the 
+### Products for the business
 Defines the products the business is producing or is planning to produce
 ![Products](./docs/2.Products.png)
 
