@@ -6,6 +6,7 @@ BzPlan Dembe is a webapp that brigdes the gap between investors and small busine
 * [Overview](#Overview)
 * [Tech Stack](#Tech-Stack)
 * [Setup and installation](#Setup-and-installation)
+* [Data Model](#Data-Model)
 * [Main Screen Flow](#Main-Screen-Flow)
 * [Financial Statment](#Financial-Statments)
 * [Future Features](#Future-Features)
@@ -25,13 +26,21 @@ Frontend: Javascript , Jinja, HTML, CSS, Bootstrap <br>
 
 ## Setup and installation
 On local machine, go to desired directory. Clone  repository:<br>
+```python
 $ git clone https://github.com/Claire56/HackDay <br><br>
+```
 Create a virtual environment in the directory:<br>
+```python
 $ virtualenv env<br>
+```
 Activate virtual environment:<br>
+```python
 $ source env/bin/activate<br><br>
+```
 Install dependencies:<br>
+```python
 $ pip install -r requirements.txt <br><br>
+````
 Create database:<br>
 ```python
 $python <br>
@@ -42,6 +51,10 @@ $python <br>
 run app <br>
 $python server.py
 ```
+
+## Data Model
+
+![bizPlanDataModel](./docs/bizPlanDataModel.png)
 
 ## Main Screen Flow
 
@@ -87,7 +100,3 @@ Listing selectable list of business plans
 
 ![ReviewBusinessCases](./docs/8.ReviewBusinessCases.png)
 
-## Data Model
-
-
-![bizPlanDataModel](./docs/bizPlanDataModel.png)
